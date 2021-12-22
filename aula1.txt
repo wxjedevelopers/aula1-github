@@ -1,0 +1,8 @@
+Meu lembrete.
+
+git pull 
+git gui
+git status
+git add .
+git commit -m "Sua mensagem aqui"
+git push
