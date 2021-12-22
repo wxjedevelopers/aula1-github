@@ -6,3 +6,5 @@ git status
 git add .
 git commit -m "Sua mensagem aqui"
 git push
+
+Alteração do arquivo
